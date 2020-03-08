@@ -7,6 +7,7 @@ Language Features:
 
 Compiler Features:
  * AssemblyStack: Support for source locations (source mappings) and thus debugging Yul sources.
+ * Reference Resolver: Fix scoping issue following try/catch statements.
 
 
 Bugfixes:
